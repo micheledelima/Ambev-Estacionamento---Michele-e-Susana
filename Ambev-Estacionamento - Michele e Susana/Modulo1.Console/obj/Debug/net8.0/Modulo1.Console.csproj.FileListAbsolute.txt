@@ -1,0 +1,15 @@
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\bin\Debug\net8.0\Modulo1.Console.exe
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\bin\Debug\net8.0\Modulo1.Console.deps.json
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\bin\Debug\net8.0\Modulo1.Console.runtimeconfig.json
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\bin\Debug\net8.0\Modulo1.Console.dll
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\bin\Debug\net8.0\Modulo1.Console.pdb
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\obj\Debug\net8.0\Modulo1.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\obj\Debug\net8.0\Modulo1.Console.AssemblyInfoInputs.cache
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\obj\Debug\net8.0\Modulo1.Console.AssemblyInfo.cs
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\obj\Debug\net8.0\Modulo1.Console.csproj.CoreCompileInputs.cache
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\obj\Debug\net8.0\Modulo1.Console.sourcelink.json
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\obj\Debug\net8.0\Modulo1.Console.dll
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\obj\Debug\net8.0\refint\Modulo1.Console.dll
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\obj\Debug\net8.0\Modulo1.Console.pdb
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\obj\Debug\net8.0\Modulo1.Console.genruntimeconfig.cache
+C:\Users\michele.delima\source\repos\Ambev-Estacionamento - Michele e Susana\Modulo1.Console\obj\Debug\net8.0\ref\Modulo1.Console.dll
