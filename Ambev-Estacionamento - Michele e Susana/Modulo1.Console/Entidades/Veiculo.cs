@@ -11,6 +11,6 @@ namespace Modulo1.Console.Entidades
         public TipoVeiculo TipoVeiculo { get; set; }
         public string? Cor { get; set; }
 
-        public abstract decimal CalcularPreco(Ticket ticket);
+        public abstract double CalcularPreco(Ticket ticket);
     }
 }
